@@ -103,3 +103,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
