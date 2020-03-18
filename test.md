@@ -5,9 +5,12 @@ test
 #### H4
 ##### H5
 ###### H6
-```Pandu ji edited on Wed
-Alternatively, for H1 and H2, an underline-ish style:```
 
+```
+Pandu ji edited on Wed
+Alternatively, for H1 and H2, an underline-ish style:
+This is not a good practice 
+```
 
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
