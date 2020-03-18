@@ -8,6 +8,12 @@ test
 ```Pandu ji edited on Wed
 Alternatively, for H1 and H2, an underline-ish style:```
 
+
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/dkwar2020/example-repo/blob/master/IntegrationJuly%20-%20Copy.png "Logo Title Text 1")
+
+
 Alt-H1
 ======
 
